@@ -1,7 +1,9 @@
-## Hi there 👋
+# Olá, me chamo Eduardo ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 
-**edudeabreu008/edudeabreu008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
