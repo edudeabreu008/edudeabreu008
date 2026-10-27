@@ -8,7 +8,7 @@ Buscando oportunidades para desenvolver minhas habilidades e participar de proje
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Engenharia de Software e estou construindo minha carreira na área de desenvolvimento.
 
@@ -18,7 +18,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimen
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -34,7 +34,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimen
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 *  Python
 *  Desenvolvimento Web
@@ -45,7 +45,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimen
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Meu objetivo é iniciar minha carreira na área de **Desenvolvimento de Software**, buscando uma oportunidade de **estágio em programação**.
 
@@ -53,7 +53,7 @@ Quero continuar evoluindo tecnicamente, aprender com profissionais da área e co
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha trajetória de aprendizado.
 
@@ -61,7 +61,7 @@ Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante min
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div>
 <a href="mailto:ed.eduardodeabreu@gmail.com">
