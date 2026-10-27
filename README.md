@@ -1,10 +1,10 @@
-# Olá, eu sou o Eduardo! 👋
+# Olá, eu sou o Eduardo! 
 
-🎓 Estudante de **Engenharia de Software** 
+Estudante de **Engenharia de Software** 
 
-💻 Interessado em **Desenvolvimento de Software e Backend** 
+ Interessado em **Desenvolvimento de Software e Backend** 
 
-🚀 Buscando oportunidades para desenvolver minhas habilidades e participar de projetos reais.
+Buscando oportunidades para desenvolver minhas habilidades e participar de projetos reais.
 
 ---
 
