@@ -24,7 +24,7 @@ Gosto de aprender na prática: transformo o que estudo em projetos acadêmicos e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,html,css,postgres,git,github,vscode" alt="Python, HTML, CSS, PostgreSQL, Git, GitHub e Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=python,html,css,postgres,git,github,vscode" alt="Python, HTML, CSS, PostgreSQL, Git, GitHub e Visual Studio Code" />
 
 </div>
 
