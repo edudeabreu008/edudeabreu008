@@ -1,78 +1,50 @@
-# Olá, eu sou o Eduardo! 
+# Olá, eu sou o Eduardo
 
-Estudante de **Engenharia de Software** 
+**Estudante de Engenharia de Software** em busca de estágio em **desenvolvimento backend**.
 
- Interessado em **Desenvolvimento de Software e Backend** 
+Gosto de aprender na prática: construo projetos acadêmicos e pessoais para consolidar o que estudo, com foco em **Python, bancos de dados e aplicações web**.
 
-Buscando oportunidades para desenvolver minhas habilidades e participar de projetos reais.
+## Sobre mim
 
----
+Estou construindo minha carreira em desenvolvimento de software. Meu maior interesse é em **backend**, **aplicações web** e **modelagem de bancos de dados**. Atualmente, aprofundo meus conhecimentos em programação, desenvolvimento web, bancos de dados, Git e GitHub.
 
-##  Sobre mim
+## Tecnologias e ferramentas
 
-Sou estudante de Engenharia de Software e estou construindo minha carreira na área de desenvolvimento.
+**Linguagens**
 
-Tenho interesse principalmente em **desenvolvimento backend, aplicações web e bancos de dados**. Gosto de aprender colocando os conhecimentos em prática por meio de projetos acadêmicos e pessoais.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="40" />
 
-Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimento web, bancos de dados, Git e GitHub.
+**Web**
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" />
 
-## Tecnologias e Ferramentas
+**Banco de dados**
 
-### Linguagens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
+**Ferramentas**
 
-### Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+## Projetos em destaque
 
----
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Nome do projeto 1](https://github.com/SEU-USUARIO/projeto-1) | Em uma frase: o problema que resolve e o que você implementou. | Python, PostgreSQL |
+| [Nome do projeto 2](https://github.com/SEU-USUARIO/projeto-2) | Em uma frase: o problema que resolve e o que você implementou. | HTML, CSS |
+| [Nome do projeto 3](https://github.com/SEU-USUARIO/projeto-3) | Em uma frase: o problema que resolve e o que você implementou. | PHP, PostgreSQL |
 
-## Atualmente estudando
-
-*  Python
-*  Desenvolvimento Web
-*  Modelagem e bancos de dados
-*  Git e GitHub
-*  Algoritmos e lógica de programação
-*  Desenvolvimento Backend
-
----
+Veja os demais na aba [Repositories](https://github.com/SEU-USUARIO?tab=repositories).
 
 ## Objetivo profissional
 
-Meu objetivo é iniciar minha carreira na área de **Desenvolvimento de Software**, buscando uma oportunidade de **estágio em programação**.
-
-Quero continuar evoluindo tecnicamente, aprender com profissionais da área e contribuir para projetos reais.
-
----
-
-## Projetos
-
-Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha trajetória de aprendizado.
-
-> Estou constantemente adicionando novos projetos e aprimorando os existentes.
-
----
+Conquistar uma vaga de **estágio em desenvolvimento de software (backend)**, aprender com profissionais experientes e contribuir com projetos reais.
 
 ## Contato
 
-<div>
-<a href="mailto:ed.eduardodeabreu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/edudeabreu008">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</div>
-
----
-
-Obrigado por visitar meu perfil!
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ed.eduardodeabreu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edudeabreu008)
