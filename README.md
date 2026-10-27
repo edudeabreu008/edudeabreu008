@@ -13,7 +13,6 @@ Estou construindo minha carreira em desenvolvimento de software. Meu maior inter
 **Linguagens**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="40" />
 
 **Web**
 
@@ -29,16 +28,6 @@ Estou construindo minha carreira em desenvolvimento de software. Meu maior inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do projeto 1](https://github.com/SEU-USUARIO/projeto-1) | Em uma frase: o problema que resolve e o que você implementou. | Python, PostgreSQL |
-| [Nome do projeto 2](https://github.com/SEU-USUARIO/projeto-2) | Em uma frase: o problema que resolve e o que você implementou. | HTML, CSS |
-| [Nome do projeto 3](https://github.com/SEU-USUARIO/projeto-3) | Em uma frase: o problema que resolve e o que você implementou. | PHP, PostgreSQL |
-
-Veja os demais na aba [Repositories](https://github.com/SEU-USUARIO?tab=repositories).
 
 ## Objetivo profissional
 
