@@ -36,12 +36,12 @@ Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimen
 
 ## 📚 Atualmente estudando
 
-* 🐍 Python
-* 🌐 Desenvolvimento Web
-* 🗄️ Modelagem e bancos de dados
-* 🔧 Git e GitHub
-* 🧠 Algoritmos e lógica de programação
-* 💻 Desenvolvimento Backend
+*  Python
+*  Desenvolvimento Web
+*  Modelagem e bancos de dados
+*  Git e GitHub
+*  Algoritmos e lógica de programação
+*  Desenvolvimento Backend
 
 ---
 
@@ -75,4 +75,4 @@ Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante min
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
