@@ -28,22 +28,17 @@ Gosto de aprender na prática: transformo o que estudo em projetos acadêmicos e
 
 </div>
 
-| Categoria | Tecnologias |
-|---|---|
-| **Linguagens** | Python |
-| **Web** | HTML5, CSS3 |
-| **Banco de dados** | PostgreSQL |
-| **Ferramentas** | Git, GitHub, VS Code |
-
 ## Projetos em destaque
+
+Aqui estão alguns dos projetos acadêmicos e pessoais que desenvolvi. Este espaço vai crescendo junto comigo.
 
 <div align="center">
 
 <a href="https://github.com/edudeabreu008/poke-copy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edudeabreu008&repo=poke-copy&theme=tokyonight&hide_border=true" alt="Cartão do repositório poke-copy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edudeabreu008&repo=poke-copy&bg_color=0A1929&title_color=00BCD4&text_color=E0F7FA&icon_color=0D47A1&border_color=0B3A7A" alt="Repositório poke-copy" />
 </a>
 <a href="https://github.com/edudeabreu008/minijogos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edudeabreu008&repo=minijogos&theme=tokyonight&hide_border=true" alt="Cartão do repositório minijogos" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edudeabreu008&repo=minijogos&bg_color=0A1929&title_color=00BCD4&text_color=E0F7FA&icon_color=0D47A1&border_color=0B3A7A" alt="Repositório minijogos" />
 </a>
 
 </div>
